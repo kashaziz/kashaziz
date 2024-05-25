@@ -4,7 +4,7 @@ I am **[Kashif Aziz](https://www.kashifaziz.me)**, a Senior Software Development
 
 #### Tech Stack
 
-[![My Tech Stack](https://skills.thijs.gg/icons?i=py,django,mysql,postgres,js,docker,aws,firebase)](https://www.kashifaziz.me)
+[![My Tech Stack](https://skillicons.dev/icons?i=py,django,mysql,postgres,js,docker,aws,firebase)](https://www.kashifaziz.me)
 
 
 #### What do I do?
