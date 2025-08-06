@@ -12,8 +12,11 @@ I am **[Kashif Aziz](https://www.kashifaziz.me)**, a Senior Software Development
 With over 25 years in software development, I help startups and enterprises build AI-powered systems, automate complex workflows, and launch scalable products - fast.
 
 🔹 AI-Driven Business Automation – Streamlining operations with Python, OpenAI APIs, LLMs, and custom AI tools
+
 🔹 MVP Development – Delivering full-featured, investor-ready products in weeks, not months
+
 🔹 Data Engineering & Web Scraping – Designing pipelines that extract actionable insights from real-time and unstructured sources
+
 🔹 Scalable Backend Systems – Building robust APIs and infrastructure with Django, FastAPI, PostgreSQL, and cloud-native tools
 
 Industries served: Sports, Oil & Gas, Healthcare, Real Estate, Recruitment, eCommerce
@@ -21,9 +24,7 @@ Industries served: Sports, Oil & Gas, Healthcare, Real Estate, Recruitment, eCom
 I focus on outcomes - reducing manual effort, increasing operational velocity, and turning complex ideas into maintainable systems. I'm also exploring GenAI use cases in internal tooling, process optimization, and rapid prototyping.
 
 Tech: Python, Django, FastAPI, PostgreSQL, Firebase, JavaScript, AWS, OpenAI
-GitHub: github.com/kashaziz · Website: kashifaziz.me
 
-Let’s connect if you're building something that needs to move fast and scale smart. 🌟
 
 Let's connect and create something amazing together! 🌟
 
