@@ -9,25 +9,21 @@ I am **[Kashif Aziz](https://www.kashifaziz.me)**, a Senior Software Development
 
 #### What do I do?
 
-🚀 Transforming ideas into scalable and robust software solutions that drive business growth. 
+With over 25 years in software development, I help startups and enterprises build AI-powered systems, automate complex workflows, and launch scalable products - fast.
 
-🌐 Crafting elegant web applications with clean code and intuitive user experiences. 
+🔹 AI-Driven Business Automation – Streamlining operations with Python, OpenAI APIs, LLMs, and custom AI tools
+🔹 MVP Development – Delivering full-featured, investor-ready products in weeks, not months
+🔹 Data Engineering & Web Scraping – Designing pipelines that extract actionable insights from real-time and unstructured sources
+🔹 Scalable Backend Systems – Building robust APIs and infrastructure with Django, FastAPI, PostgreSQL, and cloud-native tools
 
-📚 Constantly expanding my knowledge and staying up-to-date with the latest industry trends and technologies. 
+Industries served: Sports, Oil & Gas, Healthcare, Real Estate, Recruitment, eCommerce
 
-🔧 Expertise in developing RESTful APIs that power innovative applications. 
+I focus on outcomes - reducing manual effort, increasing operational velocity, and turning complex ideas into maintainable systems. I'm also exploring GenAI use cases in internal tooling, process optimization, and rapid prototyping.
 
-💡 Experienced in translating complex requirements into efficient and maintainable code. 
+Tech: Python, Django, FastAPI, PostgreSQL, Firebase, JavaScript, AWS, OpenAI
+GitHub: github.com/kashaziz · Website: kashifaziz.me
 
-👥 Collaborating with cross-functional teams to deliver high-quality projects within tight deadlines. 
-
-📈 Continuously optimizing and enhancing existing systems to achieve optimal performance. 
-
-🌍 Committed to building inclusive and accessible software solutions for diverse user communities. 
-
-💻 Sharing my insights, tips, and experiences through blog posts and open-source contributions. 
-
-🎯 Seeking new challenges and opportunities to contribute to cutting-edge projects. 
+Let’s connect if you're building something that needs to move fast and scale smart. 🌟
 
 Let's connect and create something amazing together! 🌟
 
